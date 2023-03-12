@@ -1,0 +1,9 @@
+.app-container{
+  height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient(blue,orange,red) ;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

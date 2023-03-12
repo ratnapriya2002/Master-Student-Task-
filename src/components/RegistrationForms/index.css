@@ -1,0 +1,40 @@
+.studentregistraion-container {
+    background-color: lightcyan;
+    padding: 20px;
+    margin: 50px auto;
+    max-width: 500px;
+    border-radius: 5px;
+    box-shadow: 1px;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+    margin-top: 0;
+}
+
+input[type=text],
+input[type=email],
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid lightblue;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: orange;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    background-color: white;
+}
